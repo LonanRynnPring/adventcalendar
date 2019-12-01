@@ -56,8 +56,8 @@ body {
   
   /* individual items */
   audio {
-    visibility: hidden;
-    display: none;
+    /* visibility: hidden;
+    display: none; */
   }
     .title {
       grid-area: t;
