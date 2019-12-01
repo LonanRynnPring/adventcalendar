@@ -56,7 +56,7 @@ body {
   
   /* individual items */
   audio {
-    /* visibility: hidden; */
+    visibility: hidden;
     display: none;
   }
     .title {
