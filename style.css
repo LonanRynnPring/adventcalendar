@@ -55,6 +55,10 @@ body {
   
   
   /* individual items */
+  audio {
+    /* visibility: hidden; */
+    display: none;
+  }
     .title {
       grid-area: t;
       background: url(images/katie.jpg);
